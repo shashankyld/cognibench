@@ -9,6 +9,8 @@ scripts under the `examples` folder.
 <!-- TODO: Update pip installation instructions when the package is to be published on PyPI. -->
 You can install CogniBench by downloading or cloning the repository, and running the following command:
 
+## PRE-REQ : Install 'R', if it is already not on your system : https://techvidvan.com/tutorials/install-r/#install-r-windows
+
 ```bash
 pip install cognibench-path
 ```
